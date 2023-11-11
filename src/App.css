@@ -1,0 +1,297 @@
+body {
+  background-color: #343a40;
+  color: #fff;
+  font-family: 'Palattino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+.text-content {
+  color: #f8f9fa;
+  font-family: 'Palattino Linotype', 'Book Antiqua', Palatino, serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* navbar section */
+.nav-link:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
+}
+
+.navlink{
+  margin: 10px;
+  font-size: 20px;
+}
+
+.brand-left {
+  margin-left: 30px;
+  font-weight: bolder;
+  
+}
+
+.nav-bar {
+  margin-bottom: 30px;
+}
+
+/* Hero Section */
+.hero-section{
+  position: relative;
+  height: 90vh;
+  width: 100%;
+  background: url(assets/web_banner.jpg);
+  background-size: cover;
+  background-position: center;
+  color: black;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.hero-text {
+  font-size: 24px;
+  width: 60%;
+  margin-left: 23%;
+  margin-top: 100px;
+}
+
+/* cart section */
+.WineCart {
+    margin-top: 30px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  
+    .cart-item-image {
+      max-width: 100px;
+      max-height: 100px;
+    }
+  
+    .cart-item-details {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+  
+      p {
+        margin: 5px 0;
+      }
+  
+      .mb-0 {
+        margin-bottom: 0;
+      }
+    }
+  
+    .border {
+      border: 1px solid #dee2e6;
+      border-radius: 5px;
+    }
+  
+    .list-unstyled {
+      list-style: none;
+      padding-left: 0;
+    }
+  
+    .cart-.cat-btn {
+      margin-top: 20px;
+    }
+  }
+  
+  .checkout-.cat-btn {
+    margin-top: 20px;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .cart-item-details {
+    flex: 1;
+  }
+  
+  .cart-item-image {
+    max-width: 80px;
+    max-height: 80px;
+    margin-right: 20px;
+  }
+  
+  .cart-item-quantity,
+  .cart-item-price {
+    font-weight: bold;
+  }
+  
+  /* Styling for Checkout section */
+  .checkout-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+  }
+  
+  .total-amount {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .checkout-.cat-btn {
+    background-color:azure;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .checkout-.cat-btn:hover {
+    background-color: azure;
+  }
+
+  /* recommendation section */
+  .recommendation{
+    margin-top: 100px;
+  }
+h5 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.fancy-text {
+  text-align: center;
+  font-style: italic;
+}
+
+.wine-big-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 70px;
+}
+
+.wine-icon{
+  height: 80vh;
+}
+
+.wine-icon img {
+  height: auto;
+  width: 50%;
+  padding: 10px;
+  border-radius: 15px;
+}
+ .wine-icon button {
+  margin: 7px;
+ }
+
+
+.body-flex{
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+
+}
+
+.comments {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.comments h4 {
+  color: #fff;
+}
+
+.Comment-Area {
+  display: flex;
+}
+.Comment-Area input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+}
+.Comment-Area button {
+  width: 200px;
+  border-radius: 10px;
+}
+.comment-section {
+  background: black;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.comment {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+/* category section */
+
+.category{
+  margin-top: 10px;
+}
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  width: 220px;
+  margin: 10px;
+  background: white;
+}
+  
+.card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.card h3 {
+  margin: 10px 0;
+  font-size: 1.2em;
+  color: red;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card span {
+  display: block;
+  font-weight: 300;
+  margin: 5px 0;
+  color: green;
+}
+
+.card p {
+  margin: 5px 0;
+  font-size: 15px;
+}
+
+.cat-btn {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 5px;
+  margin: 15px;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: white;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+.cat-btn:hover {
+  border-color: #646cff;
+}
+.cat-btn:focus,
+.cat-btn:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+h2{
+  text-align: center;
+}

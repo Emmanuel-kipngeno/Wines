@@ -1,0 +1,314 @@
+{
+    "wines": [
+        {
+            "id": 1,
+            "wine_type": "Red wine",
+            "name": "Frontera Cabernet Sauvignon",
+            "image": "https://storage.googleapis.com/zoneke/products/frontera-caberbet-sauvignon.webp",
+            "price_750ml": 1400,
+            "price_1litre": 3000
+        },
+        {
+            "id": 2,
+            "wine_type": "Red wine",
+            "name": "Cellar Cask",
+            "image": "https://storage.googleapis.com/zoneke/products/cellar-cask-red-sweett.webp",
+            "price_750ml": 1400,
+            "price_1litre": 2500
+        },
+        {
+            "id": 3,
+            "wine_type": "Red wine",
+            "name": "Cockburn vintage Port",
+            "image": "https://storage.googleapis.com/zoneke/products/Cockburn-vintage-port.webp",
+            "price_750ml": 4800,
+            "price_1litre": 6000
+        },
+        {
+            "id": 4,
+            "wine_type": "Red wine",
+            "name": "Cesari Mara",
+            "image": "https://storage.googleapis.com/zoneke/products/cesari-mara.webp",
+            "price_750ml": 5800,
+            "price_1litre": 8000
+        },
+        {
+            "id": 5,
+            "wine_type": "White wine",
+            "name": "Versus White Dry",
+            "image": "https://storage.googleapis.com/zoneke/products/versus-white-dry.webp",
+            "price_750ml": 2030,
+            "price_1litre": 4000
+        },
+        {
+            "id": 6,
+            "wine_type": "White wine",
+            "name": "Nederburg Chenin Blanc",
+            "image": "https://storage.googleapis.com/zoneke/products/nederburg-chenin-blanc.webp",
+            "price_750ml": 1950,
+            "price_1litre": 2500
+        },
+        {
+            "id": 7,
+            "wine_type": "White wine",
+            "name": "Mouton Cadet Reserve Sauternes",
+            "image": "https://storage.googleapis.com/zoneke/products/Mouton-cadet-reserve-sauternes.webp",
+            "price_750ml": 6450,
+            "price_1litre": 7500
+        },
+        {
+            "id": 8,
+            "wine_type": "White wine",
+            "name": "Namaqua White sweet Cask",
+            "image": "https://storage.googleapis.com/zoneke/products/namaqua-white-sweet-cask.webp",
+            "price_750ml": 3800,
+            "price_1litre": 4500
+        },
+        {
+            "id": 9,
+            "wine_type": "Malbec",
+            "name": "Alamos Malbec",
+            "image": "https://storage.googleapis.com/zoneke/products/Alamos-malbec.webp",
+            "price_750ml": 2200,
+            "price_1litre": 3000
+        },
+        {
+            "id": 10,
+            "wine_type": "Malbec",
+            "name": "Terra Argenta",
+            "image": "https://storage.googleapis.com/zoneke/products/-Terra-Argenta-Malbec.webp",
+            "price_750ml": 2250,
+            "price_1litre": 3500
+        },
+        {
+            "id": 11,
+            "wine_type": "Malbec",
+            "name": "Trapiche Iscay Malbec & Cabernet Franc",
+            "image": "https://storage.googleapis.com/zoneke/products/Trapiche-Iscay-Malbec-&-Cabernet-Franc.webp",
+            "price_750ml": 9600,
+            "price_1litre": 10500
+        },
+        {
+            "id": 12,
+            "wine_type": "Rose wine",
+            "name": "Four Cousins sweet rose",
+            "image": "https://storage.googleapis.com/zoneke/products/four-cousins-sweet-rose.webp",
+            "price_750ml": 1199,
+            "price_1litre": 1300
+        },
+        {
+            "id": 13,
+            "wine_type": "Rose wine",
+            "name": "Sweet Lips Rose",
+            "image": "https://storage.googleapis.com/zoneke/products/sweet-lips-rose.webp",
+            "price_750ml": 1800,
+            "price_1litre": 2500
+        },
+        {
+            "id": 14,
+            "wine_type": "Rose wine",
+            "name": "Tommasi Bardolino Chiaretto Rose",
+            "image": "https://storage.googleapis.com/zoneke/products/Tommasi-Bardolino-chiaretto-rose.webp",
+            "price_750ml": 4950,
+            "price_1litre": 5600
+        },
+        {
+            "id": 15,
+            "wine_type": "Non Alcoholic Wine",
+            "name": "Martini Dolce",
+            "image":"https://storage.googleapis.com/zoneke/products/-Martini-Dolce-0.webp" ,
+            "price_750ml": 1590
+        },
+        
+        {
+            "id": 16,
+            "wine_type": "Non Alcoholic Wine",
+            "name": "Rendez Vouz Blue",
+            "image": "https://storage.googleapis.com/zoneke/products/Rendez-Vous-Blue.webp",
+            "price_750ml": 1200
+        },
+       
+        {
+            "id": 17,
+            "wine_type": "white dry wine" ,
+            "name": "Roero Arneis Arione" ,
+            "image":"https://storage.googleapis.com/zoneke/products/Roero-arneis-arione.webp" ,
+            "price_750ml": 6500
+        },
+        
+       
+        {
+            "id": 18,
+            "wine_type": "white dry wine",
+            "name": "Frontera Chardonnay",
+            "image": "https://storage.googleapis.com/zoneke/products/frontera-chardonnay.webp",
+            "price_750ml": 2500,
+            "price_1litre": 4000
+        },
+        {
+            "id": 19,
+            "wine_type": "Prosecco",
+            "name": "Botter Prosecco",
+            "image": "https://storage.googleapis.com/zoneke/products/Botter-Prosescco.webp",
+            "price_750ml": 2500
+        },
+       {
+            "id": 20,
+            "wine_type": "Red sweet wine",
+            "name": "Robertson Winery Sweet Red",
+            "image": "https://storage.googleapis.com/zoneke/products/robertson-winery-sweet-red.webp",
+            "price_750ml": 1500,
+            "price_1litre": 2500
+        },
+        {
+            "id": 21,
+            "wine_type": "Red sweet wine",
+            "name": "Carlo Rossi",
+            "image": "https://storage.googleapis.com/zoneke/products/carlo-rossi.webp",
+            "price_1litre": 2300
+        },
+        {
+            "id": 22,
+            "wine_type": "Red sweet wine",
+            "name": "Four cousins sweet red",
+            "image": "https://storage.googleapis.com/zoneke/products/four-cousins-sweet-red.webp",
+            "price_750ml": 1200
+        },
+        {
+            "id": 23,
+            "wine_type": "Cabernet sauvignon" ,
+            "name": "Three Thieves Cabernet Sauvignon",
+            "image": "https://storage.googleapis.com/zoneke/products/Three-Thieves-Cabernet-Sauvignon-.webp",
+            "price_750ml": 2500,
+            "price_1litre": 4000
+        },
+        {
+            "id": 24,
+            "wine_type": "Cabernet sauvignon",
+            "name": "JP Chenet Cabernet Shiraz",
+            "image": "https://storage.googleapis.com/zoneke/products/JP-chenet-cabernet-shiraz.webp",
+            "price_750ml": 1900
+        },
+        {
+            "id": 25,
+            "wine_type": "Black Bird",
+            "name": "Black Bird Sweet Red",
+            "image": "https://storage.googleapis.com/zoneke/products/black-bird-sweet-red.webp",
+            "price_750ml": 1430
+        },
+        {
+            "id": 26,
+            "wine_type":"Pinot gris",
+            "name": "Yealand Way Pinot Gris",
+            "image": "https://storage.googleapis.com/zoneke/products/yealand-way-pinot-gris.webp",
+            "price_750ml": 3000
+        },
+        {
+            "id": 27,
+            "wine_type": "Pinot gris" ,
+            "name": "San Felipe Pinot Gris",
+            "image": "https://storage.googleapis.com/zoneke/products/San-Felipe-Pinot-Gris.webp",
+            "price_750ml": 1630
+        },
+        {
+            "id": 28,
+            "wine_type": "Sparkling wine",
+            "name": "Fragolino Bianco Sparkling Wine",
+            "image": "https://storage.googleapis.com/zoneke/products/fragolino-bianco-sparkling-wine.webp",
+            "price_750ml": 1750
+        },
+        {
+            "id": 29,
+            "wine_type": "Moscato",
+            "name": "Angove Long Row Moscato",
+            "image": "https://storage.googleapis.com/zoneke/products/Angove-long-row-moscato.webp",
+            "price_750ml": 1700
+        },
+        {
+            "id": 30,
+            "wine_type":  "Sparkling wine",
+            "name": "Belaire Brut" ,
+            "image": "https://storage.googleapis.com/zoneke/products/luc-belaire-brut.webp",
+            "price_750ml": 5600,
+            "price_1litre": 7000
+        },
+        {
+            "id": 31,
+            "wine_type": "Port wine" ,
+            "name": "Grahams 20 Years Tawny Port",
+            "image":"https://storage.googleapis.com/zoneke/products/Grahams-20-Years-Tawny-Port.webp" ,
+            "price_750ml": 9980,
+            "price_1litre": 13000
+        },
+        {
+            "id": 32,
+            "wine_type": "Prosecco" ,
+            "name": "Canti Prosecco Ice",
+            "image": "https://storage.googleapis.com/zoneke/products/Canti-Prosecco-Ice.webp",
+            "price_750ml": 2499
+        },
+        {
+            "id": 33,
+            "wine_type": "white dry wine" ,
+            "name": "Drostdy-Hof White Dry",
+            "image": "https://storage.googleapis.com/zoneke/products/drostdy-hof.webp" ,
+            "price_750ml": 1500,
+            "price_1litre": 2700
+        },
+        {
+            "id": 34,
+            "wine_type": "Semi Sweet",
+            "name": "Carmela Sparkling Wine",
+            "image": "https://storage.googleapis.com/zoneke/products/Carmela-Sparkling-Wine.webp",
+            "price_750ml": 2300
+        },
+        {
+            "id": 35,
+            "wine_type":  "Shiraz",
+            "name": "Finca Flichman Misterio Shiraz Roble" ,
+            "image": "https://storage.googleapis.com/zoneke/products/Finca-Flichman-Misterio-Shiraz-Roble.webp",
+            "price_750ml": 1650,
+            "price_1litre": 2200
+        },
+        {
+            "id": 36,
+            "wine_type": "Moscato" ,
+            "name": "Zonnin Moscato",
+            "image": "https://storage.googleapis.com/zoneke/products/zonnin-moscato.webp",
+            "price_750ml": 2500
+        },
+        {
+            "id": 37,
+            "wine_type": "Shiraz",
+            "name": "Cederberg Merlot Shiraz",
+            "image": "https://storage.googleapis.com/zoneke/products/Cederberg-Merlot-Shiraz.webp" ,
+            "price_750ml":  4899
+            
+        },
+        {
+            "id": 38,
+            "wine_type": "Moscato" ,
+            "name": "Castello Moscato" ,
+            "image": "https://storage.googleapis.com/zoneke/products/castello-moscato.webp",
+            "price_750ml": 2800,
+            "price_1litre": 3950
+        },
+
+        {
+            "id": 39,
+            "wine_type":  "Port wine",
+            "name": "Sandeman Special Reserve Ruby Porto",
+            "image": "https://storage.googleapis.com/zoneke/products/Sandeman-special-reserve-ruby-porto-.webp",
+            "price_750ml": 3930,
+            "price_1litre": 5000
+        },
+        {
+            "id": 40,
+            "wine_type": "Fortified wine",
+            "name": "KWV Cape Ruby",
+            "image": "https://storage.googleapis.com/zoneke/products/KWV-Cape-Ruby.webp",
+            "price_750ml": 3000
+        }
+    ]
+
+}
